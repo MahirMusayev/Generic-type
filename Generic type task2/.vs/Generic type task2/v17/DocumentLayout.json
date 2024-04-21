@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\Generic type task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BC3B90-D49F-4AB3-A443-6FFBEA40D2C1}|Generic type task2\\Generic type task2.csproj|c:\\users\\heydar\\desktop\\generic type task2\\generic type task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BC3B90-D49F-4AB3-A443-6FFBEA40D2C1}|Generic type task2\\Generic type task2.csproj|solutionrelative:generic type task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Generic type task2\\Generic type task2\\Program.cs",
+              "RelativeDocumentMoniker": "Generic type task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Generic type task2\\Generic type task2\\Program.cs",
+              "RelativeToolTip": "Generic type task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:38:01.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

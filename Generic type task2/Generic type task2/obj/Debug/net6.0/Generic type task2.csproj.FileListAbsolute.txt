@@ -1,0 +1,14 @@
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\bin\Debug\net6.0\Generic type task2.exe
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\bin\Debug\net6.0\Generic type task2.deps.json
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\bin\Debug\net6.0\Generic type task2.runtimeconfig.json
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\bin\Debug\net6.0\Generic type task2.dll
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\bin\Debug\net6.0\Generic type task2.pdb
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\Generic type task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\Generic type task2.AssemblyInfoInputs.cache
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\Generic type task2.AssemblyInfo.cs
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\Generic type task2.csproj.CoreCompileInputs.cache
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\Generic type task2.dll
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\refint\Generic type task2.dll
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\Generic type task2.pdb
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\Generic type task2.genruntimeconfig.cache
+C:\Users\Heydar\Desktop\Generic type task2\Generic type task2\obj\Debug\net6.0\ref\Generic type task2.dll
